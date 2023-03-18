@@ -1,5 +1,5 @@
 # Live URL
-https://laszlosomogyimusic.github.io/bootcamp-day05-jakes-eatery/starter/index.html
+https://laszlosomogyimusic.github.io/bootcamp-module2-day1-jakes-eatery/starter/index.html
 
 # CSS Flexbox 
 
